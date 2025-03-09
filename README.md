@@ -26,7 +26,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [rahul12-01](). Thanks!
 
 ## Built With
 
